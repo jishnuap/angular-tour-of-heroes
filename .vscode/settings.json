@@ -6,6 +6,11 @@
         "**/.hg": true,
         "**/.DS_Store": true,
         "**/*.js" : true,
-        "**/*.js.map" : true
+        "**/*.js.map" : true,
+        "**/*.gitignore" : true,
+        "**/*.dockerignore" : true,
+        "**/*.editorconfig" : true,
+        "**/*.vscode" : true,
+        "**/*.travis.yml" : true
     }
 }
